@@ -1,0 +1,21 @@
+const favBooks = [
+  { id: "id-1", name: "JS for beginners" },
+  { id: "id-2", name: "React basics" },
+  { id: "id-3", name: "React Router overview" },
+  { id: "id-4", name: "JS for beginners" },
+  { id: "id-5", name: "React basics" },
+  { id: "id-6", name: "React Router overview" },
+  { id: "id-7", name: "JS for beginners" },
+  { id: "id-8", name: "React basics" },
+  { id: "id-9", name: "React Router overview" },
+  { id: "id-10", name: "JS for beginners" },
+  { id: "id-11", name: "React basics" },
+  { id: "id-12", name: "React Router overview" },
+  { id: "id-13", name: "JS for beginners" },
+  { id: "id-14", name: "React basics" },
+  { id: "id-15", name: "React Router overview" },
+  { id: "id-16", name: "JS for beginners" },
+  { id: "id-17", name: "React basics" },
+  { id: "id-18", name: "React Router overview" },
+];
+export default favBooks;
