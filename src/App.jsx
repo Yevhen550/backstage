@@ -7,6 +7,7 @@ import CardList from "./components/CardList/CardList";
 import Mailbox from "./components/Mailbox/Mailbox";
 import Product from "./components/Product/Product";
 import foods from "./data/foods";
+// import categories from "./data/categories";
 
 function App() {
   const handleClick = () => {
@@ -18,6 +19,7 @@ function App() {
       <h1 className="title">Backstage</h1>
       <Card text="Hello Card Component" />
       <FoodList items={foods} />
+      {/* <FoodList items={categories} /> */}
       <Button text="Push" onClick={handleClick} />
       <Product
         name="Tacos With Lime"
