@@ -1,0 +1,12 @@
+.list {
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.buttonGroupWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  align-items: center;
+  margin-bottom: 20px;
+}
